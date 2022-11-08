@@ -8,11 +8,11 @@
 <h2 align="center">✌️진또배기 아침형인간, 야르미온느입니다.✌️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarmione&layout=compact)](https://github.com/Yarmione/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarmione&show_icons=true&theme=gruvbox)
-<h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
+<h2 align="center">☾⋆⁺₊⋆💙 Tech Stack 💙☾⋆⁺₊⋆</h2>
  
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a></p>
 
 
-<h2 align="center">⋆｡ﾟ✶°🌜contact 🌚⋆｡ﾟ✶°</h2>
+<h2 align="center">⋆｡ﾟ✶°🌜Contact 🌚⋆｡ﾟ✶°</h2>
 
 <p align="center"><a href="https://blog.naver.com/valencia_vivi"><img src="https://img.shields.io/badge/Blog-lightgreen?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/valencia_vivi"/></a>  <a href="mailto:image4362@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:image4362@gmail.com"/></a></p>
