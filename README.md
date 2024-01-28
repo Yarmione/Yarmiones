@@ -15,4 +15,4 @@
 
 <h2 align="center">⋆｡ﾟ✶°🌜Contact 🌚⋆｡ﾟ✶°</h2>
 
-<p align="center"><a href="https://blog.naver.com/valencia_vivi"><img src="https://img.shields.io/badge/Blog-lightgreen?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/valencia_vivi"/></a>  <a href="mailto:image4362@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:image4362@gmail.com"/></a></p>
+<p align="center"><a href="https://blog.naver.com/valencia_vivi"><img src="https://img.shields.io/badge/Blog-lightgreen?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@yarmione/posts"/></a>  <a href="mailto:image4362@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:image4362@gmail.com"/></a></p>
